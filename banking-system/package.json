@@ -1,0 +1,13 @@
+{
+  "name": "examination-system",
+  "version": "1.0.0",
+  "description": "An examination system project",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
